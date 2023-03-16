@@ -8,7 +8,12 @@
 - pandas
 - requests
 
-## Go code through web_scraping.ipynb and results stored in results.xltx.
+### Link of website : https://ascopubs.org/jco/special/meeting-abstracts?expanded=tvolume-suppl.d2020.y2021&expanded=tvolume-suppl.d2020.y2021.v39
+
+## Result :
+- Scrapped data is stored in results.
+
+## Go through code and Enjoy the analysis.
 
 
 
