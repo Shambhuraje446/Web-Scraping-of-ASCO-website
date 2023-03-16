@@ -8,5 +8,5 @@
 - pandas
 - requests
 
+### Go throgh web_scraping.ipynb for code. 
 
-## Go through code and Enjoy !!
