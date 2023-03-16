@@ -8,7 +8,9 @@
 - pandas
 - requests
 
-## Results are stored in .csv format.
+## Go code through web_scraping.ipynb and results stored in results.xltx.
+
+
 
 
 
