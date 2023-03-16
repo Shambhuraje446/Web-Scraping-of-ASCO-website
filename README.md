@@ -3,10 +3,13 @@
 
 ## Requirments :
  
-- python 3.X 
+- python 3.7.0 
 - bs4
 - pandas
 - requests
 
-### Go throgh web_scraping.ipynb for code. 
+## Results are stored in .csv format.
+
+
+
 
