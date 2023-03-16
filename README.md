@@ -3,7 +3,7 @@
 
 ## Requirments :
  
-- python 3.7.0 
+- python 3.7.X
 - bs4
 - pandas
 - requests
